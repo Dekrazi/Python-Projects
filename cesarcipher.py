@@ -1,17 +1,3 @@
-# ask user for encrypt or decrypt
-# ask for a sentence to encrypt/decrypt
-# ask for a key to use (amount of characters to move)
-
-# make a string of letters
-
-
-# for loop fo each letter in sentence if letter in list, move
-# it a key amount of places
-
-# handle wrap around
-
-# present encrypted/decrypted text
-
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
 
 print('Do you want to (e)ncrypt or (d)ecrypt your message?')
