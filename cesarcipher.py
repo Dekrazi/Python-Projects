@@ -12,6 +12,7 @@ while True:
         break
     else:
         print('Invalid choice. Choose from e or d.')
+        break
 
 while True:
     max_key = len(SYMBOLS) - 1
